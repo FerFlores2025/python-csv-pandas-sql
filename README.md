@@ -1,6 +1,6 @@
 Este repositorio contiene distintos scripts en *Python* para trabajar con archivos CSV y con una base de datos MySQL.  
 
-Archivos principales
+## Archivos principales
 
 ## Archivos CSV 
 - Son los archivos descargados de la Base de Datos : SUPERMERCADO.
@@ -25,5 +25,6 @@ Archivos principales
 - Librerías indicadas en requirements.txt (pueden instalarse con:  
   ```bash
   pip install -r requirements.txt
-- Para unir Python con SQL primero necesito instalar : pip install mysql-connector-python
-- 
+- Para unir Python con SQL primero necesito instalar :
+  pip install mysql-connector-python
+  
